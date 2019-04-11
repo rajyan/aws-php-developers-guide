@@ -64,15 +64,6 @@ SDK Guides
 * :doc:`JMESPath Expressions in the AWS SDK for PHP <guide_jmespath>`
 * :doc:`SDK Metrics <guide_sdk-metrics>`
 
-Service-Specific Features
-=========================
-
-* :doc:`Using AWS Cloud9 with the AWS SDK for PHP  <cloud9>`
-* :doc:`Using the DynamoDB Session Handler with AWS SDK for PHP  <service_dynamodb-session-handler>`
-* :doc:`Amazon S3 Multi-Region Client  <s3-multiregion-client>`
-* :doc:`Amazon S3 Stream Wrapper  <s3-stream-wrapper>`
-* :doc:`Amazon S3 Transfer Manager  <s3-transfer>`
-* :doc:`Amazon S3 Client Side Encryption  <s3-encryption-client>`
 
 Examples
 ========
@@ -80,6 +71,8 @@ Examples
 * :doc:`Amazon CloudFront <cf-examples>`
 * :doc:`Signing Custom Amazon CloudSearch Domain Requests  <service_cloudsearch-custom-requests>`
 * :doc:`Amazon CloudWatch Examples <cw-examples>`
+* :doc:`Using AWS Cloud9 with the AWS SDK for PHP  <cloud9>`
+* :doc:`Using the DynamoDB Session Handler with AWS SDK for PHP  <service_dynamodb-session-handler>`
 * :doc:`Amazon EC2 <ec2-examples>`
 * :doc:`Signing an Amazon Elasticsearch Service Search Request  <service_es-data-plane>`
 * :doc:`AWS Identity and Access Management Examples <iam-examples>`

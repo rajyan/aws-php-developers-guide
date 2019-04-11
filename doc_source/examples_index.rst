@@ -16,7 +16,10 @@
    :description: Code examples for the AWS SDK for PHP version 3.
    :keywords:
 
-The |sdk-php| Version 3 includes code examples that demonstrate common |AWSlong| scenarios that use the SDK.
+The |sdk-php| Version 3 includes code examples that demonstrate common |AWSlong| scenarios that use the SDK. 
+
+Some of the AWS services supported by the |sdk-php| Version 3 include additional
+features beyond executing operations on an API. These guides also documents higher-level features per service when available.
 
 .. include:: text/git-php-examples.txt
 
@@ -26,6 +29,8 @@ The |sdk-php| Version 3 includes code examples that demonstrate common |AWSlong|
     Amazon CloudFront Examples <cf-examples.rst>
     Amazon CloudSearch <service_cloudsearch-custom-requests.rst>
     Amazon CloudWatch Examples <cw-examples.rst>
+    AWS Cloud9 <cloud9.rst>
+    Amazon DynamoDB <service_dynamodb-session-handler.rst>
     Amazon EC2 Examples <ec2-examples.rst>
     Amazon Elasticsearch <service_es-data-plane.rst>
     AWS Identity and Access Management (IAM) Examples <iam-examples.rst>

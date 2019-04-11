@@ -27,14 +27,18 @@
     :maxdepth: 1
 
     Creating and Using Amazon S3 Buckets <s3-examples-creating-buckets.rst>
-    Managing Amazon S3 Bucket Access Permissions <s3-examples-access-permissions.rst>
+    Managing Amazon S3 Bucket Access Permissions <s3-examples-access-permissions.rst>    
+    Amazon S3 Client Side Encryption <s3-encryption-client.rst>
     Configuring Amazon S3 Buckets <s3-examples-configuring-a-bucket.rst>    
-    Amazon S3 Multipart Uploads <s3-multipart-upload.rst>
+    Amazon S3 Multipart Uploads <s3-multipart-upload.rst>    
+    Amazon S3 Multi-Region Client <s3-multiregion-client.rst>
     Creating S3 Pre-Signed POSTs  <s3-presigned-post.rst>
     Amazon S3 Pre-Signed URL  <s3-presigned-url.rst>
+    Amazon S3 Stream Wrapper <s3-stream-wrapper.rst>
+    Amazon S3 Transfer Manager <s3-transfer.rst>
     Using an Amazon S3 Bucket as a Static Web Host <s3-examples-static-web-host.rst>
     Working with Amazon S3 Bucket Policies <s3-examples-bucket-policies.rst>
-
+    
 
 
 

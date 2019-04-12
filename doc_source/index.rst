@@ -17,7 +17,6 @@
     AWS SDK for PHP <welcome.rst>
     Getting Started <getting-started_index>
     Configuring the SDK <guide_index>
-    Using AWS Services <service_index.rst>
     Code Examples <examples_index>
     FAQ <faq>
     glossary 
